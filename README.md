@@ -1,7 +1,7 @@
 # lab02-birded
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02-birded/
-Repo: https://github.com/ucsb-cs56-w20/lab02-birded
+* Javadoc: https://ucsb-cs56-w20.github.io/lab02-birded/
+* Repo: https://github.com/ucsb-cs56-w20/lab02-birded
 
 # About this repo
 
